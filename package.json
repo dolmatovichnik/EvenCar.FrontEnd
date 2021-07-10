@@ -1,0 +1,17 @@
+{
+  "name": "evencar.frontend",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolmatovichnik/EvenCar.FrontEnd.git"
+  },
+  "author": "SolIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolmatovichnik/EvenCar.FrontEnd/issues"
+  },
+  "homepage": "https://github.com/dolmatovichnik/EvenCar.FrontEnd#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
